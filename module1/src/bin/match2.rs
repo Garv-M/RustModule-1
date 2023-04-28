@@ -1,3 +1,5 @@
+use std::fmt::Binary;
+
 
 fn main() {
     let boolean = true;
@@ -6,7 +8,10 @@ fn main() {
     //
     // boolean = true => binary = 1
     // boolean = false =>  binary = 0
-    let binary = __;
+    let binary = match boolean {
+        true => 1,
+        false => 0,
+    };
 
     assert_eq!(binary, 1);
 

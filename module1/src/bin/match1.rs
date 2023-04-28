@@ -11,10 +11,13 @@ fn main() {
     let dire = Direction::South;
     match dire {
         Direction::East => println!("East"),
-        __  => { // Matching South or North here
-            println!("South or North");
-        },
-        _ => println!(__),
+        Direction::North  => { // Matching South or North here
+            println!("North");
+        }
+        Direction::South  => { // Matching South or North here
+            println!("South");
+        }
+        _ => println!("West"),
     };
 }
 

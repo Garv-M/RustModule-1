@@ -10,7 +10,14 @@
 // * Use break to exit the loop
 
 
+fn main() {
+    let mut count = 1;
+    loop{
+        println!("{}",count);
+        count+=1;
 
-
-
-fn main() {}
+        if count == 5{
+            break;  
+        }
+    }
+}

@@ -1,0 +1,1 @@
+C:\Users\GARV\ MITTRA\OneDrive\Desktop\rust_assignments\PRACTISE\RustModule-1\module1\target\debug\fc3.exe: C:\Users\GARV\ MITTRA\OneDrive\Desktop\rust_assignments\PRACTISE\RustModule-1\module1\src\bin\fc3.rs

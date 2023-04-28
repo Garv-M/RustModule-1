@@ -36,7 +36,7 @@ fn nested_loop() {
     }
 
     println!("Exited the outer loop");
-}
+} 
 
 fn return_loop() {
     let mut counter = 0;

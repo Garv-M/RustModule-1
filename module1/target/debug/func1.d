@@ -1,0 +1,1 @@
+C:\Users\GARV\ MITTRA\OneDrive\Desktop\rust_assignments\PRACTISE\RustModule-1\module1\target\debug\func1.exe: C:\Users\GARV\ MITTRA\OneDrive\Desktop\rust_assignments\PRACTISE\RustModule-1\module1\src\bin\func1.rs
